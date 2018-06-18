@@ -1,0 +1,28 @@
+body {
+    
+    font-family: 'Raleway', sans-serif;
+}
+
+.amipurple {
+    background-color: rgb(73, 53, 139);
+    color:white;
+}
+
+.navcolor {
+    background-color: rgb(73, 53, 139);
+    color:white;
+}
+
+.amigold {
+    background-color: rgb(221, 150, 64);
+}
+
+.amipurpletext {
+    color: rgb(73, 53, 139);
+}
+
+.amigoldtext {
+    color: rgb(221, 150, 64);
+}
+
+.imgresize {width:200px;}

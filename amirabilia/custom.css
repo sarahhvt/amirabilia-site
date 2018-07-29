@@ -1,0 +1,46 @@
+body {
+    
+    font-family: 'Raleway', sans-serif;
+    color:#343a40;
+}
+
+h1, h2, h3, h5, h6 {
+    color: rgb(73, 53, 139);
+}
+
+ion-icon {font-size:40px;
+        color: rgb(73, 53, 139);}
+
+.amipurple {
+    background-color: rgb(73, 53, 139);
+    color:white;
+}
+
+.navcolor {
+    background-color: rgb(73, 53, 139);
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(255,255,255);
+}
+
+.amigold {
+    background-color: rgb(221, 150, 64);
+}
+
+.amipurpletext {
+    color: rgb(73, 53, 139);
+}
+
+.amigoldtext {
+    color: rgb(221, 150, 64);
+}
+
+.goldhover h5:hover {
+    color: rgb(221, 150, 64);
+}
+
+.imgresize {width:200px;
+            padding:20px;}
+
+.imglimit img {max-height:600px;}

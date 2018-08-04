@@ -4,7 +4,9 @@ body {
     color:#343a40;
 }
 
-h1, h2, h3, h5, h6 {
+.wrapper {margin:25px;}
+
+h1, h2, h3 {
     color: rgb(73, 53, 139);
 }
 
